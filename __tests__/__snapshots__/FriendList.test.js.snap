@@ -1,0 +1,73 @@
+exports[`FriendList render correctly 1`] = `
+<ul
+  className={undefined}>
+  <li
+    className={undefined}>
+    <div
+      className={undefined}>
+      <div>
+        <i
+          className="fa fa-mars" />
+        <span
+          className={undefined}>
+          Michel
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div
+      className={undefined}>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-star-o" />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-trash" />
+      </button>
+    </div>
+  </li>
+  <li
+    className={undefined}>
+    <div
+      className={undefined}>
+      <div>
+        <i
+          className="fa fa-venus" />
+        <span
+          className={undefined}>
+          Dominique
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div
+      className={undefined}>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-star" />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}>
+        <i
+          className="fa fa-trash" />
+      </button>
+    </div>
+  </li>
+</ul>
+`;

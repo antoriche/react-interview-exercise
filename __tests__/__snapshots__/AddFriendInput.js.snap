@@ -1,0 +1,23 @@
+exports[`AddFriendInput render correctly 1`] = `
+<div
+  className="input-group">
+  <div
+    className="input-group-btn">
+    <button
+      className="btn btn-default dropdown-toggle"
+      onClick={[Function]}
+      type="button">
+      <i
+        className="fa fa-mars" />
+    </button>
+  </div>
+  <input
+    autoFocus="true"
+    className="form-control"
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="Type the name of a friend to be added"
+    type="text"
+    value="" />
+</div>
+`;
